@@ -6,7 +6,7 @@
 - [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#data-preprocessing--day-1)
 
 ## Data PreProcessing | Day 1
-- [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%20-%201%20Data_Preprocessing.ipynb)
+- [Day 1 - 數據前處理 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%20-%201%20Data_Preprocessing.ipynb)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
