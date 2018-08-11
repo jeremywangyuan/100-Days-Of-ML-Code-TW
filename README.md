@@ -4,6 +4,7 @@
 
 ## 目錄
 - [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#data-preprocessing--day-1)
+- [Day 2 - 簡單線性迴歸](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#simple-linear-regression--day-2)
 
 ## Data PreProcessing | Day 1
 - [Day 1 - 數據前處理 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%20-%201%20Data_Preprocessing.ipynb)
@@ -13,7 +14,7 @@
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+- [Day 2 - 簡單線性迴歸 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%202%20-%20Simple_Linear_Regression.ipynb)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
