@@ -1,7 +1,7 @@
 # 100-Days-Of-ML-Code
 
 英文原版見此 [Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-繁中版 jupyter notebook在此[ipynb_zh-TW](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/tree/master/ipynb_zh-TW)資料夾
+繁中版 jupyter notebook在此[ipynb_zh-TW](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/tree/master/ipynb_zh-TW)
 
 ## 目錄
 - [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#data-preprocessing--day-1)
