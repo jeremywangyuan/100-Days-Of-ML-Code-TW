@@ -22,7 +22,7 @@
 </p>
 
 ## Multiple Linear Regression | Day 3
-- [Day 2 - 簡單線性迴歸 ipynb](http://localhost:8888/notebooks/Documents/GitHub/100-Days-Of-ML-Code/ipynb_zh-TW/Day%203%20-%20Multiple_Linear_Regression.ipynb)
+- [Day 3 - 多元線性迴歸 ipynb](http://localhost:8888/notebooks/Documents/GitHub/100-Days-Of-ML-Code/ipynb_zh-TW/Day%203%20-%20Multiple_Linear_Regression.ipynb)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
