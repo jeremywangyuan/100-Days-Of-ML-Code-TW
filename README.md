@@ -1,13 +1,15 @@
 # 100-Days-Of-ML-Code
 
 英文原版見此 [Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-繁中版 jupyter notebook在此[ipynb_zh-TW](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/tree/master/ipynb_zh-TW)
+繁中版 jupyter notebook 在此 [ipynb_zh-TW](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/tree/master/ipynb_zh-TW)
 
 ## 目錄
 - [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#data-preprocessing--day-1)
 - [Day 2 - 簡單線性迴歸](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#simple-linear-regression--day-2)
 - [Day 3 - 多元線性迴歸](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#multiple-linear-regression--day-3)
 - [Day 4-6 - 邏輯迴歸 ](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW#logistic-regression--day-4)
+- [Day 7-11 - K-NN](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW#k-nearest-neighbours--day-7)
+- [Day 9-14 - SVM](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW#support-vector-machines--day-12)
 
 ## Data PreProcessing | Day 1
 - [Day 1 - 數據前處理 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%20-%201%20Data_Preprocessing.ipynb)
@@ -63,7 +65,9 @@ Learned more about how SVM works and implementing the knn algorithm.
 
 ## Implementation of K-NN | Day 11  
 
-Implemented the K-NN algorithm for classification. #100DaysOfMLCode 
+Implemented the K-NN algorithm for classification. 
+- [Day 7-11 - K-NN ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/blob/master/ipynb_zh-TW/Day%207-11%20-%20K-NN.ipynb)
+#100DaysOfMLCode 
 Support Vector Machine Infographic is halfway complete will update it tomorrow.
 
 ## Support Vector Machines | Day 12
@@ -78,7 +82,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In scikit-learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+- [Day 9-14 - SVM ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/blob/master/ipynb_zh-TW/Day%209-14%20-%20SVM.ipynb)
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
