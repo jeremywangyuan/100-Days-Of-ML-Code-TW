@@ -64,11 +64,8 @@ Got an intution on what SVM is and how it is used to solve Classification proble
 Learned more about how SVM works and implementing the knn algorithm.
 
 ## Implementation of K-NN | Day 11  
-
 Implemented the K-NN algorithm for classification. 
 - [Day 7-11 - K-NN ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/blob/master/ipynb_zh-TW/Day%207-11%20-%20K-NN.ipynb)
-#100DaysOfMLCode 
-Support Vector Machine Infographic is halfway complete will update it tomorrow.
 
 ## Support Vector Machines | Day 12
 <p align="center">
