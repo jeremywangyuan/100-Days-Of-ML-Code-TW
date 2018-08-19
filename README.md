@@ -7,6 +7,7 @@
 - [Day 1 - 數據前處理](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#data-preprocessing--day-1)
 - [Day 2 - 簡單線性迴歸](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#simple-linear-regression--day-2)
 - [Day 3 - 多元線性迴歸](https://github.com/jeremywangyuan/100-Days-Of-ML-Code#multiple-linear-regression--day-3)
+- [Day 4-6 - 邏輯迴歸 ](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW#logistic-regression--day-4)
 
 ## Data PreProcessing | Day 1
 - [Day 1 - 數據前處理 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code/blob/master/ipynb_zh-TW/Day%20-%201%20Data_Preprocessing.ipynb)
@@ -23,7 +24,7 @@
 </p>
 
 ## Multiple Linear Regression | Day 3
-- [Day 3 - 多元線性迴歸 ipynb](http://localhost:8888/notebooks/Documents/GitHub/100-Days-Of-ML-Code/ipynb_zh-TW/Day%203%20-%20Multiple_Linear_Regression.ipynb)
+- [Day 3 - 多元線性迴歸 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/blob/master/ipynb_zh-TW/Day%203%20-%20Multiple_Linear_Regression.ipynb)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
@@ -41,7 +42,7 @@ Due to less time I will now be posting a infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and has already some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+- [Day 4-6 - 邏輯迴歸 ipynb](https://github.com/jeremywangyuan/100-Days-Of-ML-Code-TW/blob/master/ipynb_zh-TW/Day%204-6%20-%20Logistic_Regression.ipynb)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
